@@ -45,7 +45,7 @@ tags:
 - Company
 - Enterprise
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Deep Learning
 - MLOps
 - AutoML
@@ -57,6 +57,7 @@ tags_raw:
 - Deep Learning
 - MLOps
 - AutoML
+- Machine-Learning
 apis: []
 common:
 - type: GitHubOrganization
